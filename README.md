@@ -8,4 +8,4 @@ To get started, open `index.html` in the browser, open the dev tools, and click 
 
 In your code editor, open `intro.js` and work on the exercises in there. Uncomment the necessary lines as you work your way through each numbered exercise and run each one.
 
-Next, open
+There is also a `conditionals.js` file with more exercises. To work on those, link that file to your html page.
